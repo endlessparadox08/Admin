@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-This is my first Java Code and I love to do it My way
-=======
-This is my first Java Code But i Wont show it to you
->>>>>>> 0c35fea397c5162e49a6dc8d74c3916ed3b3186d
